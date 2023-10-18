@@ -8,6 +8,20 @@
     <li> CSS </li>
     <li> Figma </li>
     <li> LaTeX </li>
+    <aside>
+      <li>
+        Excel
+      </li>
+      <li>
+        Scratch
+      </li>
+      <li>
+        G Code
+      </li>
+      <li>
+        Ladder Diagram
+      </li>
+    </aside>
         
   </ul>
 </p>
