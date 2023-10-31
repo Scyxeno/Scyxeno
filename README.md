@@ -1,7 +1,7 @@
 <h1> Hi there, I'm Joel 👋 </h1>
 
 <p>
-  I'm a mathematician, who is looking to pursue a career in software development. This repository will act as my ongoing portfolio throughout my software development journey. At present I learning C# and C++ through Unity and Unreal Engine 5. 
+  My name is Joel and I'm starting out on my software development journey. Throughout my academics, I have studied Applied Science and Hi-Tech Engineering BTECs, as well as studying Mathematics at university. Programming played a part in many areas of my study and, since my time at uni, I discovered the career path that I'm keen to pursue is software development. I am creating this portfolio to show what I am capable of and help me progress on my career path.
   Throughout my academic career I have had experience with the following:
   <ul>
     <li> HTML </li>
@@ -36,13 +36,13 @@
 <h2> My current learning objecives </h2>
 
 <p>
-  
+  I'm focusing on bolstering my knowledge in a few areas at present. C# is the main language I am using, as it is the language I am planning to program my 'My Little CookBook' app with. I'm also enchancing my understanding of LaTeX and Figma, which are also software that will be used for the App, LaTeX for the SRS documentation and Figma for the design prototypes.
 </p>
 
 <h2> My completed projects </h2>
 
 <p>
-  As part of a short adult learning course at Exeter College, I worked with a group on a project for Honiton RFC. As part of the 
+  As part of a short adult learning course at Exeter College, I worked with a group on a project for Honiton RFC. I worked in a small team of people, which consisted of three digital marketers, 1 content creator and myself as the only software developer.
 </p>
 
 <!--
