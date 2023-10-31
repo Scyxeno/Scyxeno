@@ -26,6 +26,18 @@
   </ul>
 </p>
 
+
+<h2> My previous experience </h2>
+<p>
+I have been able to learn and use a variety of software and programming languages in many areas of Science, Technology, Engineering & Mathematics (STEM). Below I have discussed where and when I have used each one.
+</p>
+
+<h3> LaTeX </h3>
+
+<p>
+  
+</p>
+
 <h2> My current projects </h2>
 
 <p>
