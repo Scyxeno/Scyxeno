@@ -54,7 +54,8 @@ I have been able to learn and use a variety of software and programming language
 <h2> My completed projects </h2>
 
 <p>
-  As part of a short adult learning course at Exeter College, I worked with a group on a project for Honiton RFC. I worked in a small team of people, which consisted of three digital marketers, 1 content creator and myself as the only software developer.
+  As part of a short adult learning course at Exeter College, I worked with a group on a project for Honiton RFC. I worked in a small team of people, which consisted of three digital marketers, 1 content creator and myself as the only software developer. Our project was to create a landing page for Honiton RFC that would bring more footfall to an event they were holding during the Honiton festival.
+My role for the project consisted of three main areas of work. The first area was to produce an Software Requirement Specification (SRS) document. This was to outline all aspects of the development side of the project. This document can be found as an attached file on my profile.
 </p>
 
 <!--
